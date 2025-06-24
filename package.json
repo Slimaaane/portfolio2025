@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start",
-    "homepage": "https://<votre-nom-utilisateur>.github.io/<nom-du-dépôt>",
+    "homepage": "https://Slimaaane.github.io/portfolio2025",
     "predeploy": "yarn build",
    "deploy": "gh-pages -d build"
   },
